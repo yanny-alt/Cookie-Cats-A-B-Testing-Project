@@ -1,10 +1,10 @@
 # Cookie Cats Mobile Games: A/B Testing & Player Retention Analysis
 
-![Cookie Cats Banner](path_to_your_image.jpg)
+![Cookie Cats Banner](https://github.com/yanny-alt/Cookie-Cats-A-B-Testing-Project/blob/main/images/cookiecats.jpg)
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 [**Cookie Cats**](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fcookiecatsgame) is a widely popular mobile puzzle game developed by [Tactile Entertainment](https://www.google.com/url?q=http%3A%2F%2Ftactile.dk%2F). The goal of this analysis is to evaluate the impact of moving the first gate in the game from level 30 to level 40 through an A/B testing approach.
 
@@ -12,15 +12,16 @@ As players progress through the game, gates occasionally require them to wait a 
 
 ---
 
-## 💡 Problem Statement
+## Problem Statement
 
 The initial placement of the gate was at level 30. A change was proposed to move the gate to level 40, raising the question:
 
 - **Does moving the gate affect player retention?**
 
+![Cookie Cats Banner](https://github.com/yanny-alt/Cookie-Cats-A-B-Testing-Project/blob/main/images/cc_gates.png)
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Evaluate the impact of gate placement on **1-day retention** and **7-day retention**.
 - Provide actionable insights for improving player retention.
@@ -28,13 +29,13 @@ The initial placement of the gate was at level 30. A change was proposed to move
 
 ---
 
-## 📊 The Data
+## The Data
 
-The dataset for this project includes player retention metrics collected during the A/B testing phase. The data is available in the repository under the file [cookie_cats.csv](link_to_dataset).
+The dataset for this project includes player retention metrics collected during the A/B testing phase. The data is available in the repository under the file [cookie_cats.csv](https://github.com/yanny-alt/Cookie-Cats-A-B-Testing-Project/blob/main/data/cookie_cats.csv).
 
 ---
 
-## 🛠️ Skills/Technologies Used
+## Skills/Technologies Used
 
 - **Languages**: Python
 - **Libraries**: Pandas, Matplotlib
@@ -42,7 +43,7 @@ The dataset for this project includes player retention metrics collected during 
 
 ---
 
-## 📐 Project Methodology
+## Project Methodology
 
 1. **Data Exploration**:
    - Overview of dataset structure and summary statistics.
@@ -60,7 +61,7 @@ The dataset for this project includes player retention metrics collected during 
 
 ---
 
-## 📈 Results
+## Results
 
 ### 1-Day Retention
 - **Gate at Level 30**: Retention = 19.0%
@@ -91,8 +92,11 @@ The analysis provides strong evidence that **both 1-day and 7-day retention are 
 
 ---
 
-## 📥 How to Use This Repository
+## References
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/cookie-cats-ab-testing.git
+- [Cookie Cats](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fcookiecatsgame)
+- **Hedonic Adaptation**: A theory explaining the diminishing enjoyment from continuous activities.
+
+## Contributions
+
+Contributions, issues, and feature requests are welcome! Also feel free to fork this project or reach out if you have any questions or suggestions!
